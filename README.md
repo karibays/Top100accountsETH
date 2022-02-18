@@ -31,8 +31,3 @@ Just run Application and see Pie chart, Linear Chart and Bar Chart of top 100 ac
 <p align="center">
   <img src="https://user-images.githubusercontent.com/78271298/153231541-c077586f-d945-4bb8-b53c-98ed21e307b8.jpg" />
 </p>
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/77321432/154611330-9c70c130-27bf-4bd7-aff9-5efdc58fdcd5.jpg" />
-<p>
