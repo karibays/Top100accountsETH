@@ -12,6 +12,8 @@ pip install -r requirements.txt
 - Run application:
 
 ```shell
+venv\Scripts\activate
+cd chart_django_project
 python manage.py runserver
 ```
 
